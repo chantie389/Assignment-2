@@ -10,24 +10,25 @@ User-friendly buttons and easy-to-read text.
 
 GitHub & Actions:
 Used GitHub for version control. Created a workflow file to automate building the project, which runs automatically to check code quality.
-
-Video Presentation:
  
-welcome
+welcome screen
 
  ![welcome](welcome.png.jpeg)
  
-quiz
+quiz screen
 
  ![quiz]( quiz.png.jpeg )
   
-result
+result screen
 
 ![results](results.png.jpeg)
 
-review
+review screen
 
-![review](review.png.jpeg)
+![review](review.png.jpeg) 
+
+
+Video presentation: 
 
 
 References: 
