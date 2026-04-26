@@ -12,4 +12,4 @@ GitHub & Actions:
 Used GitHub for version control. Created a workflow file to automate building the project, which runs automatically to check code quality.
 
 Video Presentation:
-link: 
+ 
