@@ -47,6 +47,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
 // Handles which screen to show
 @Composable
 fun AppNavigation() {
