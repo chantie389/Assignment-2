@@ -14,12 +14,19 @@ Used GitHub for version control. Created a workflow file to automate building th
 Video Presentation:
  
 welcome
+
  ![welcome](welcome.png.jpeg)
+ 
 quiz
-  ![quiz]( quiz.png.jpeg )
+
+ ![quiz]( quiz.png.jpeg )
+  
 result
+
 ![results](results.png.jpeg)
+
 review
+
 ![review](review.png.jpeg)
 
 
