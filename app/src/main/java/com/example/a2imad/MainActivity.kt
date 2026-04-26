@@ -70,7 +70,7 @@ fun AppNavigation() {
     }
 }
 
-// --- WELCOME SCREEN ---
+//  WELCOME SCREEN
 @Composable
 fun WelcomeScreen(onStartClick: () -> Unit) {
     Column(
@@ -99,7 +99,7 @@ fun WelcomeScreen(onStartClick: () -> Unit) {
     }
 }
 
-// --- QUIZ SCREEN ---
+// QUIZ SCREEN
 @Composable
 fun QuizScreen(onQuizComplete: (Int) -> Unit) {
     var currentIndex by remember { mutableIntStateOf(0) }
@@ -181,7 +181,7 @@ fun QuizScreen(onQuizComplete: (Int) -> Unit) {
     }
 }
 
-// --- SCORE SCREEN ---
+// SCORE SCREEN
 @Composable
 fun ScoreScreen(score: Int, totalQuestions: Int, onReviewClick: () -> Unit) {
     val feedback = when {
@@ -220,7 +220,7 @@ fun ScoreScreen(score: Int, totalQuestions: Int, onReviewClick: () -> Unit) {
     }
 }
 
-// --- REVIEW SCREEN (uses LazyColumn) ---
+// REVIEW SCREEN (using LazyColumn)
 @Composable
 fun ReviewScreen(onBackClick: () -> Unit) {
     Column(
@@ -268,7 +268,7 @@ fun ReviewScreen(onBackClick: () -> Unit) {
     }
 }
 
-// --- Sample Questions List ---
+// Sample Questions List
 val questions = listOf(
     Question(
         statement = "Reading in dim light permanently damages your eyes.",
