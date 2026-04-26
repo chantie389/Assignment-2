@@ -13,3 +13,7 @@ Used GitHub for version control. Created a workflow file to automate building th
 
 Video Presentation:
  
+welcome.ong.jpeg
+quiz.png.jpeg
+results.png.jpeg
+review.png.jpeg
