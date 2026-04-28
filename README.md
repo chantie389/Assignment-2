@@ -28,7 +28,7 @@ review screen
 ![review](review.png.jpeg) 
 
 
-Video presentation: 
+Video presentation: https://youtube.com/shorts/Jy5273fskqM?feature=share
 
 
 References: 
