@@ -1,4 +1,4 @@
-Life Hack or Urban Myth? 
+APP REPORT
 
 Purpose:
 An interactive quiz app where users guess if statements are real life hacks or myths.
